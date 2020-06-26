@@ -1,0 +1,92 @@
+.main{
+    border: 1px solid gray;
+    width: 14%;
+    height: auto;
+    margin:  0 auto;
+    border-radius: 15px;
+    margin-top: 150px;
+box-shadow: 2px 3px 3px 2px palevioletred;
+}
+
+
+/* @media screen and (max-width: 1000px)
+{
+    .main{
+        width: 50%;
+      padding-left: 3px;
+    }
+
+} */
+
+@media screen and (max-width: 1300px)
+{
+    .main{
+        width: 25%;
+      padding-left: 7px;
+    }
+}
+
+
+@media screen and (max-width: 750px)
+{
+    .main{
+        width: 50%;
+      padding-left: 3px;
+    }
+}
+
+.result{
+    margin-top: 3px;
+    width: 92%;
+    margin-left: 2px;
+    height: 40px;
+    background-color: whitesmoke;
+    opacity: 0.8;
+    box-shadow: 2px 2px 2px 2px gray;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+
+    
+}
+.clearbtn{
+    margin-top: 5px;
+    width: 62%;
+    margin-left: 4px;
+    font-size: 15px;
+}
+.remove{
+    width: 30%;
+    margin-left: 2px;
+    font-size: 15px;
+}
+.op{
+    width: 30%;
+    margin-left: 3px;
+    font-size: 15px;
+}
+.btn{
+    width: 30%;
+    margin-left: 3px;
+font-size: 30px;
+font-family: 'Times New Roman', Times, serif
+}
+.clearbtn:hover{
+    background-color: palevioletred;
+    color: white;
+    transform: scale(1.1);
+}
+.remove:hover{
+    background-color: palevioletred;
+    color: white;
+    transform: scale(1.1);
+}
+.op:hover{
+    background-color: palevioletred;
+    color: white;
+    transform: scale(1.1);
+}
+.btn:hover{
+    background-color: palevioletred;
+    color: white;
+    transform: scale(1.1);
+}
