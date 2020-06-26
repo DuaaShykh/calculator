@@ -37,7 +37,7 @@ box-shadow: 2px 3px 3px 2px palevioletred;
 
 .result{
     margin-top: 3px;
-    width: 92%;
+    width: 94%;
     margin-left: 2px;
     height: 40px;
     background-color: whitesmoke;
@@ -50,13 +50,13 @@ box-shadow: 2px 3px 3px 2px palevioletred;
 }
 .clearbtn{
     margin-top: 5px;
-    width: 62%;
+    width: 63%;
     margin-left: 4px;
     font-size: 15px;
 }
 .remove{
     width: 30%;
-    margin-left: 2px;
+    margin-left: 4px;
     font-size: 15px;
 }
 .op{
